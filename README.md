@@ -2,8 +2,9 @@
 
 Merge multiple PDF files quickly and securely without uploading to any server.
 
-![PDF Merger Demo](https://img.shields.io/badge/Status-Active-brightgreen) ![No Server Required](https://img.shields.io/badge/Client%20Side-100%25-blue) ![Privacy First](https://img.shields.io/badge/Privacy-Protected-success)
+![Application Screenshot](application-screenshot.png)
 
+![PDF Merger Demo](https://img.shields.io/badge/Status-Active-brightgreen) ![No Server Required](https://img.shields.io/badge/Client%20Side-100%25-blue) ![Privacy First](https://img.shields.io/badge/Privacy-Protected-success)
 
 ## How It Works
 
