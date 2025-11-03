@@ -14,11 +14,6 @@ Merge multiple PDF files quickly and securely without uploading to any server.
 - **Styling**: Custom CSS with neon/cyberpunk theme
 - **CDN**: jsDelivr for PDF-lib delivery
 
-
-## License
-
-This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
-
 ## Author
 
 **Phyu Hnin Lwin**
@@ -31,5 +26,6 @@ This project is open source and available under the [MIT License](https://openso
 - Cyberpunk aesthetic inspiration
 
 ---
+
 
 **Made with ❤️ by [Phyu Hnin Lwin](https://github.com/phyulwin)**
